@@ -1,0 +1,16 @@
+Week 1: Data Foundations & Analytics
+Daily Focus (8.5 Hours/Day, 6 Days):
+
+Day 1: 4 hrs: Refresh Matrix Multiplications/Transposes on paper. 4.5 hrs: Set up VS Code/Anaconda and write your first custom NumPy array operations.
+
+Day 2: 4 hrs: Pandas DataFrames (filtering, slicing, grouping, cleaning). 4.5 hrs: Take a messy dataset and replace all missing or corrupted data.
+
+Day 3: 4.5 hrs: Data Visualization with Seaborn and Matplotlib. 4 hrs: Chart out data patterns to see correlations manually.
+
+Day 4: Kickoff Mini-Project 1: Download a raw "Used Cars Dataset" from Kaggle. Spend the entire day building a Python data-cleaning script.
+
+Day 5: 8.5 hrs: Code an interactive Data Dashboard using Streamlit (a Python library that turns scripts into web apps in minutes) to showcase your car data insights.
+
+Day 6: 4.5 hrs: Push your code to GitHub and write a clean README file describing your project. 4 hrs: Review your week.
+
+Day 7: 🛑 MANDATORY REST DAY. Do not look at a screen. Let your brain reset.
